@@ -28,7 +28,7 @@ Alternativas a Whattsapp, Discord, Messenger, Line... Hay varios tipos de aplica
 <a href="https://jami.net/">Jami</a> Realmente Jami tiene funciones centralizadas, pero puede configurarse para establecer conexiones p2p.
 
 <h1>Windows</h1>
-La mayoría de distros Linux (Si no habeis usado Linux nunca recomiendo <a href="https://ubuntu.com/">Ubuntu</a>) son buenas alternativas a Windows, entre las más enfocadas en la seguridad están:
+<p>La mayoría de distros Linux (Si no habeis usado Linux nunca recomiendo <a href="https://ubuntu.com/">Ubuntu</a>) son buenas alternativas a Windows, entre las más enfocadas en la seguridad están:</p>
 <a href="https://tails.boum.org/">Tails</a> Sistema operativo portable enfocado en el anonimato.
 <a href="https://www.whonix.org/">Whonix</a> Sistema operativo basado en Debian formado por dos máquinas virtuales, al igual que Tails busca anonimizar al usuario.
 
