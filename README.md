@@ -29,12 +29,12 @@ Alternativas a Whattsapp, Discord, Messenger, Line... Hay varios tipos de aplica
 
 <h1>Windows</h1>
 <p>La mayoría de distros Linux (Si no habeis usado Linux nunca recomiendo <a href="https://ubuntu.com/">Ubuntu</a>) son buenas alternativas a Windows, entre las más enfocadas en la seguridad están:</p>
-<a href="https://tails.boum.org/">Tails</a> Sistema operativo portable enfocado en el anonimato.
-<a href="https://www.whonix.org/">Whonix</a> Sistema operativo basado en Debian formado por dos máquinas virtuales, al igual que Tails busca anonimizar al usuario.
+<p><a href="https://tails.boum.org/">Tails</a> Sistema operativo portable enfocado en el anonimato.</p>
+<p><a href="https://www.whonix.org/">Whonix</a> Sistema operativo basado en Debian formado por dos máquinas virtuales, al igual que Tails busca anonimizar al usuario.</p>
 
 <h1>Android</h1>
 <h3>Sistemas Operativos</h3>
-<a href="https://calyxos.org/">Calyx OS</a> Sistema operativo móvil enfocado en la privacidad de los usuarios.
-<a href="https://www.lineageos.org/">Lineage OS</a> Sistema operativo móvil con muchas opciones de seguridad, privacidad y personalización. Tienen muchísimo soporte (la mayoría de ROMs personalizadas se basan en Lineage).
+<p><a href="https://calyxos.org/">Calyx OS</a> Sistema operativo móvil enfocado en la privacidad de los usuarios.</p>
+<p><a href="https://www.lineageos.org/">Lineage OS</a> Sistema operativo móvil con muchas opciones de seguridad, privacidad y personalización. Tienen muchísimo soporte (la mayoría de ROMs personalizadas se basan en Lineage).</p>
 <h3>Google Services</h3>
-<a href="https://microg.org/">microG</a>Alternativa a los servicios de Google. Nos permite tener aplicaciones dependientes de Google sin instalar sus servicios.
+<p><a href="https://microg.org/">microG</a>Alternativa a los servicios de Google. Nos permite tener aplicaciones dependientes de Google sin instalar sus servicios.</p>
