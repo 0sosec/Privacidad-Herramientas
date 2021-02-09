@@ -5,7 +5,9 @@ Recopilación de alternativas que nos ayudan a mantener la privacidad en la red.
 Whatsapp, Discord...
 
 <h2>Centralizadas</h2>
-<p>Los servidores son de una organización. Es posible que los gobiernos les exijan puertas traseras. Dependes del buen hacer de la empresa/organización.
+<li>Los servidores son de una organización. </li>
+ <li> Es posible que los gobiernos les exijan puertas traseras. </li>
+ <li> Dependes del buen hacer de la empresa/organización.</li>
   <br>
 <p><a href="https://telegram.org/">Telegram </a> está más comprometido con la privacidad del usuario. Lo recomiendo por la gran base de usuarios y opciones que tiene, como alternativa transicional.
 <p><a href="https://signal.org/">Signal</a> está completamente enfocada en la privacidad, soporta cifrado de extremo a extremo para vídeo, texto y voz. 
