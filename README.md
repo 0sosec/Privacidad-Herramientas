@@ -33,8 +33,8 @@ La mayoría de distros Linux (Si no habeis usado Linux nunca recomiendo <a href=
 <a href="https://www.whonix.org/">Whonix</a> Sistema operativo basado en Debian formado por dos máquinas virtuales, al igual que Tails busca anonimizar al usuario.
 
 <h1>Android</h1>
-<h2>Sistemas Operativos</h2>
+<h3>Sistemas Operativos</h3>
 <a href="https://calyxos.org/">Calyx OS</a> Sistema operativo móvil enfocado en la privacidad de los usuarios.
 <a href="https://www.lineageos.org/">Lineage OS</a> Sistema operativo móvil con muchas opciones de seguridad, privacidad y personalización. Tienen muchísimo soporte (la mayoría de ROMs personalizadas se basan en Lineage).
-<h2>Google Services</h2>
+<h3>Google Services</h3>
 <a href="https://microg.org/">microG</a>Alternativa a los servicios de Google. Nos permite tener aplicaciones dependientes de Google sin instalar sus servicios.
