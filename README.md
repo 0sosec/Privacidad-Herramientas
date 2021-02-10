@@ -37,4 +37,4 @@ Alternativas a Whattsapp, Discord, Messenger, Line... Hay varios tipos de aplica
 <p><a href="https://calyxos.org/">Calyx OS</a> Sistema operativo móvil enfocado en la privacidad de los usuarios.</p>
 <p><a href="https://www.lineageos.org/">Lineage OS</a> Sistema operativo móvil con muchas opciones de seguridad, privacidad y personalización. Tienen muchísimo soporte (la mayoría de ROMs personalizadas se basan en Lineage).</p>
 <h3>Google Services</h3>
-<p><a href="https://microg.org/">microG</a>Alternativa a los servicios de Google. Nos permite tener aplicaciones dependientes de Google sin instalar sus servicios.</p>
+<p><a href="https://microg.org/">microG</a> Alternativa a los servicios de Google. Nos permite tener aplicaciones dependientes de Google sin instalar sus servicios.</p>
